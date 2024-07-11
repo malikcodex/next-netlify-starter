@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome To The Cars On Deal Platform. We Are Working And Soon We Are Bringing The Module</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

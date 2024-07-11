@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Welcome To The Cars On Deal Platform. We Are Working And Soon We Are Bringing The Module</title>
+        <title>Cars On Deal</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome To The Cars On Deal Platform. We Are Working And Soon We Are Bringing The Module" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a className="my-btn">Checkout Tools</a>
         </p>
       </main>
 

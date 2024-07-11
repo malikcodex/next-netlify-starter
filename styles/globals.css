@@ -34,3 +34,14 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+
+.my-btn {
+  background-color:black;
+  color: white;
+  padding: 10px 12px;
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+  outline:none;
+}
